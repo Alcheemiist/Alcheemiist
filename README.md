@@ -4,7 +4,7 @@
 
 ### I just ❤ Open Source,
 
-<img align="right" alt="GIF" src="https://avatars0.githubusercontent.com/u/54292039?s=60&v=4" width="400"/>
+<img align="right" alt="GIF" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" width="300"/>
 
 - 🔭 I am a _Technician specialized in automated industrial systemes_ also _Software Developer Student_ from **Ouarzazate, Morocco** with proven experience working for ... / wait to next update /
 
