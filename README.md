@@ -2,9 +2,9 @@
 
 ## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)
 
-### I just ❤ Open Source, I love [VS Code](https://code.visualstudio.com)
+### I just ❤ Open Source,
 
-<!--<img align="right" alt="GIF" src="https://avatars0.githubusercontent.com/u/54292039?s=60&v=4" width="400"/>-->
+<img align="right" alt="GIF" src="https://avatars0.githubusercontent.com/u/54292039?s=60&v=4" width="400"/>
 
 - 🔭 I am a _Technician specialized in automated industrial systemes_ also _Software Developer Student_ from **Ouarzazate, Morocco** with proven experience working for ... / wait to next update /
 
