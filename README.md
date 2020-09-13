@@ -2,9 +2,9 @@
 <p align="center">
 
 <h2
-## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)  </h2>
+## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)  
 <p align="center">
-
+</h2>
   
 <a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /></a>
 <a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
