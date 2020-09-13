@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elmahdi </h1>
 <p align="center">
 
-<p align="center">
-## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)  
 
+## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)  
+<p align="center">
 
   
 <a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /></a>
