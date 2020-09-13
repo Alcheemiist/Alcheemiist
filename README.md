@@ -1,6 +1,14 @@
-## Hello there 👋,I am ELmahdi ELaazmi
+<h1 align="center">Hi 👋, I'm Elmahdi </h1>
+<p align="center">
+  
+## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)   
 
-## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)
+<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rahuldkjain" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
+</p>
+
+<h3 align="center">A young-dumb 🤓 automated industrial systemes developer && softwared developer student at 1337 from Morocco </h3>
+
 
 ### I just ❤ Open Source,
 
@@ -15,6 +23,8 @@
     / wait to next update /
 - 😄 I am ...
     / wait to next update /
+
+- Interests : IOT , Robotics , Data Mining , artificial intelligence
 
 - 📫 Feel free to reach me via the username **@Alchemist** on all social media account or simply **gmail** that.
 
