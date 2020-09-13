@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Elmahdi </h1>
 <p align="center">
 
-<h1 align="center">
+<h2 <p align="center">
 ## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)  
-<p align="center"></h1> 
+
+</h2> 
   
 <a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /></a>
 <a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">A young-dumb 🤓 automated industrial systemes developer
-                            && 
-  align="center">Software developer student at 1337 from Morocco </h3>
+<h3 align="center">
+A young-dumb 🤓 automated industrial systemes developer
+              && 
+Software developer student at 1337 from Morocco 
+</h3>
 
 
 ### I just ❤ Open Source,
