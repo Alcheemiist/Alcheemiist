@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">
-A young-dumb 🤓 automated industrial systemes developer
+A young 🤓 automated industrial systemes developer
               && 
 Software developer student at 1337 from Morocco 
 </h3>
