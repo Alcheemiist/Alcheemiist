@@ -12,7 +12,7 @@
 <h3 align="center">
 A young 🤓 automated industrial systemes developer
               && 
-Software developer student at 1337 from Morocco 
+Self-taught Software developer from Morocco 
 </h3>
 
 
