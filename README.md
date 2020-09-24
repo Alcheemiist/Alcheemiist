@@ -3,6 +3,7 @@
 
 ## aka ✨ALCHEEMIIST✨ [![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist)  
 
+
   
 <a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /> </a>
  
@@ -19,6 +20,9 @@ Self-taught Software developer from Morocco
 ### I just ❤ Open Source,
 
 <img align="right" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" width="300"/>
+
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 - 🔭 I am with proven experience working for... 
     / wait to next update /
