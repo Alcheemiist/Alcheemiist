@@ -16,13 +16,12 @@ A young 🤓 automated industrial systemes developer
 Self-taught Software developer from Morocco 
 </h3>
 
-
 ### I just ❤ Open Source,
-
+<img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" height="28" /></h2>
+<img align='right' src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="250" />
 <img align="right" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" width="300"/>
 
-<img src="https://media.giphy.com/media/8gRgYeXD3rKUcjWlzB/giphy.gif" height="28" /></h2>
-<img align='right' src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="250" />
+
 
 - 🔭 I am with proven experience working for... 
     / wait to next update /
