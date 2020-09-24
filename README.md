@@ -17,7 +17,7 @@ Self-taught Software developer from Morocco
 </h3>
 
 ### I just ❤ Open Source,
-<img align='center' alt="PNG" src="https://media.giphy.com/media/l1J9CdlP8K91P30Iw/giphy.gif" height="50" width="75"  /></h2>
+<img align='center' alt="PNG" src="https://media.giphy.com/media/OFdzg6H4YavMQ/giphy.gif" height="70" width="140"  /></h2>
 <img align='right' alt="PNG" src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="250" width="300" />
 <img align="right" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" height="250" width="250"/>
 
