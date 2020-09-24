@@ -21,8 +21,8 @@ Self-taught Software developer from Morocco
 
 <img align="right" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" width="300"/>
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img src="https://media.giphy.com/media/8gRgYeXD3rKUcjWlzB/giphy.gif" height="28" /></h2>
+<img align='right' src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="250" />
 
 - 🔭 I am with proven experience working for... 
     / wait to next update /
