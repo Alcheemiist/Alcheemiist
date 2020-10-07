@@ -5,34 +5,21 @@
 
 
   
-<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /> </a>
+<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /> </a>
  
-<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
+<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
 </p>
 
 
-// <h3 align="center">
-// A young 🤓 automated industrial systemes developer
-//            && 
-// Self-taught Software developer from Morocco 
-// </h3>
-
-
 ### I just ❤ Open Source,
+
 <img align='center' alt="PNG" src="https://media.giphy.com/media/S4GPjbl52nZN67l74l/giphy.gif" height="140" width="140"  />
 <img align='right' alt="PNG" src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="250" width="300" />
 <img align="right" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" height="250" width="250"/>
 
 
 
-- 🔭 I am with proven experience working for... 
-    / wait to next update /
-- ⚡ I am ... 
-    / wait to next update /
-- 😄 I am ...
-    / wait to next update /
-
-- Interests : IOT , Robotics , Data Mining , artificial intelligence , automated systems , POO 
+- **Interests** : IOT , Robotics , Data Mining , artificial intelligence , automated systems , POO 
 
 - 📫 Feel free to reach me via the username **@Alchemist** on all social media account or simply **gmail** that.
 
