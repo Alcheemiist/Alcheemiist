@@ -5,12 +5,12 @@
 
 
   
-<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /> </a>
+<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="30" width="30" /> </a>
  
-<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
+<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
 </p>
 
-<a align="center" ### I just ❤ Open Source,  /> </a>
+### I just ❤ Open Source,
 
 <img align='center' alt="PNG" src="https://media.giphy.com/media/S4GPjbl52nZN67l74l/giphy.gif" height="140" width="140"  />
 <img align='right' alt="PNG" src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="250" width="300" />
