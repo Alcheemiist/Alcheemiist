@@ -8,6 +8,10 @@
 <a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alchemist" height="30" width="30" /></a>
 </p>
 
+# 42_Profile_Card
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=eelaazmi-)](https://github.com/mohouyizme/1337-readme)
+
 ### I just ❤ Open Source,
 
 <img align='center' alt="PNG" src="https://media.giphy.com/media/S4GPjbl52nZN67l74l/giphy.gif" height="140" width="140"  />
