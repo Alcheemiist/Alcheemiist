@@ -20,7 +20,7 @@
 
 
 
-- **Interests** : IOT , Robotics , AI, embedded systems, Data Mining, QP.
+- **Interests** : IOT , Robotics , AI, embedded systems, mechatronics, QP.
 
 - 📫 Feel free to reach me via the username **@Alchemist** on all social media account or simply **gmail** that.
 
