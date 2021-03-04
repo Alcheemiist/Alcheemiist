@@ -1,4 +1,4 @@
-<h1 align="Right"> Hi 👋, I'm Elmahdi aka ✨ALCHEEMIIST✨ 
+<h1 align="right"> Hi 👋, I'm Elmahdi aka ✨ALCHEEMIIST✨ 
  <a>[![Github](https://img.shields.io/github/followers/Alcheemiist?label=Follow&style=social)](https://github.com/Alcheemiist) </a>
 
 
