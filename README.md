@@ -17,7 +17,9 @@ I’ve always been passionate about embedded systems and coding which led me to 
 I’m a holder of 2 certifications in Robotics and PLC Programming.
 
 In my spear time I participate in local and online competitions to enhance my coding and my problem-solving skills also I’ve been taking courses in IoT and AI. 
-so happy to join and contributed to open source projects 
+so happy to join and contributed to open source projects.
+
+For now i'm a co-founder at GoSmart4.0, startup about the world of IoT and the magic of making houses smart and more comfortable for all families.
 
 - 📫 Feel free to reach me via the username **@Alchemist** on all social media account or simply use **email** .
  
