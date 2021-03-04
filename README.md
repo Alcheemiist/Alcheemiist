@@ -7,7 +7,7 @@
 alt="Alchemist" height="25" width="25" /></a>
 </p>
 
-<a align="center" [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme) /></a>
+<h2 align="center"> [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme) </h2>
 
 ### I just ❤ Open Source,
 
