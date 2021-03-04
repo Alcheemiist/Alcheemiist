@@ -15,7 +15,7 @@ alt="Alchemist" height="25" width="25" /></a>
 <img align='right' alt="PNG" src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="100" width="100" />
 <img align="left" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" height="100" width="100"/>
 
-</p>
+<h2 align="left">
 
 ## About me 
 
@@ -23,7 +23,7 @@ Embedded system and software specialist, back in 2019 I got my diploma as a tech
 I’ve always been passionate about embedded systems and coding which led me to be a student at 1337, I’m a holder of 2 certifications in Robotics and PLC Programming.
 In my spear time I participate in local and online competitions to enhance my coding and my problem-solving skills also I’ve been taking courses in IoT and AI. 
 so happy to join and contributed to open source projects 
-
+</h2>
 - 📫 Feel free to reach me via the username **@Alchemist** on all social media account or simply **gmail** that.
  
  
