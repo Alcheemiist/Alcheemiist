@@ -14,8 +14,10 @@ alt="Alchemist" height="25" width="25" /></a>
 <img align='center' alt="PNG" src="https://media.giphy.com/media/S4GPjbl52nZN67l74l/giphy.gif" height="100" width="100"  />
 <img align='right' alt="PNG" src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="100" width="100" />
 <img align="left" alt="PNG" src="https://images.idgesg.net/images/article/2018/10/ai_robotics_analytics_data-scientist_mathematics_equation-100777424-large.jpg" height="100" width="100"/>
- 
- Embedded system and software specialist, back in 2019 I got my diploma as a technician in automated systems which give more curiosity about the field that resulted in multiple internships at OCP and STELIA AEROSPACE, I’ve learned a lot from them, my last one was at CIMENT Maroc.
+
+## About me 
+
+Embedded system and software specialist, back in 2019 I got my diploma as a technician in automated systems which give more curiosity about the field that resulted in multiple internships at OCP and STELIA AEROSPACE, I’ve learned a lot from them, my last one was at CIMENT Maroc.
 I’ve always been passionate about embedded systems and coding which led me to be a student at 1337, I’m a holder of 2 certifications in Robotics and PLC Programming.
 In my spear time I participate in local and online competitions to enhance my coding and my problem-solving skills also I’ve been taking courses in IoT and AI. 
 so happy to join and contributed to open source projects 
