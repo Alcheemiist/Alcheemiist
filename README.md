@@ -7,9 +7,6 @@
 alt="Alchemist" height="25" width="25" /></a>
 </p>
 
-
-# 42_Profile_Card
-
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme)
 
 ### I just ❤ Open Source,
