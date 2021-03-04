@@ -1,9 +1,9 @@
-<h1 align="right"> Hi 👋, I'm Elmahdi aka ✨ALCHEEMIIST✨</h1>
+<h1 align="center"> Hi 👋, I'm Elmahdi aka ✨ALCHEEMIIST✨</h1>
 
 
-<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="25" width="30" /> </a>
+<a href=https://twitter.com/Elaazmi_ElMahdi target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Alchemist" height="25" width="25" /> </a>
  
-<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="right" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg 
+<a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg 
 alt="Alchemist" height="25" width="25" /></a>
 </p>
 
