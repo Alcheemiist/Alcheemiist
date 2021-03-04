@@ -5,9 +5,9 @@
  
 <a href=https://www.linkedin.com/in/elmahdi-elaazmi-80223015b/ target="blank"><img align="left" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg 
 alt="Alchemist" height="25" width="25" /></a>
-</p>
 
-<h2 align="center"> [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme) </h2>
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme)
+</p>
 
 ### I just ❤ Open Source,
 
