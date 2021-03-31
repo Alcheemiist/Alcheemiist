@@ -17,4 +17,4 @@ alt="Alchemist" height="25" width="25" /></a>
  
  
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcheemiist&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
-<img alt="Alcheemiist's github stats" src="https://github-readme-stats.vercel.app/api?username=Alcheemiist&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+
