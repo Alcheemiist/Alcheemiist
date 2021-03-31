@@ -16,6 +16,7 @@ alt="Alchemist" height="25" width="25" /></a>
 - 📫 Feel free to reach me via the username **@Alcheemiist** on all social media account or simply use **email** .
  
  
-<img alt="Top Langs" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcheemiist)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcheemiist&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
  ><img
 alt="Alcheemiist's github stats" src="https://github-readme-stats.vercel.app/api?username=Alcheemiist&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
