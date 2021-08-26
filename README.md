@@ -11,7 +11,7 @@ alt="Alchemist" height="25" width="25" /></a>
 
 ## About me 
 
-- Usual Introduction
+- Usual Introduction.
 
 - 📫 Feel free to reach me via the username **@Alcheemiist** on all social media account or simply use **email** .
  
