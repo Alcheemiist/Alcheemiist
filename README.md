@@ -2,10 +2,9 @@
 
 <h3> Hi there, I'm Elmahdi <br> Embedded system & software specialist <h3>
 
-<p>
  I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
  I participate in local and online Competitions, Hackathons & Conference to enhance my coding and my problem-solving skill.
-<p>
+
 
 <a  href="https://www.linkedin.com/in/elmahdielaazmi/"><img  align="left"  alt="Mehdi's LinkdeIn"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -25,11 +24,10 @@
 
 **Talking about Personal Stuffs:**
 
-> - 🤔 My interests are with **Natural Language Processing/Understanding, Embedded Systems, Computer vision, Reinforcement Learning, AI, ML, IOT etc...**
-> 
-> - 💬 Ask me about anything, I am happy to help;
-> - 📫 Please email via elaazmielmahdi@gmail.com to reach me.
-> - 📝 See my [Curriculum Vitae](https://www.eelaazmi.me) to get more info.
+- 🤔 My interests are with **Natural Language Processing/Understanding, Embedded Systems, Computer vision, Reinforcement Learning, AI, ML, IOT etc...** 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via elaazmielmahdi@gmail.com to reach me.
+- 📝 See my [Curriculum Vitae](https://www.eelaazmi.me) to get more info.
  
 
  **Languages and Tools:**
