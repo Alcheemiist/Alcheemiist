@@ -3,7 +3,7 @@
 **Hi there, I'm Elmahdi <br> Embedded system & software specialist**
 
  I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
- I participate in local and online Competitions, Hackathons & Conference to enhance my coding and my problem-solving skill.
+ I participate in local and online Events(Competitions, Hackathons and Conferences) to enhance my Coding & Software Developement, Entrepreneurship, Project  Management and Communication  Skills.
 
 
 <a  href="https://www.linkedin.com/in/elmahdielaazmi/"><img  align="left"  alt="Mehdi's LinkdeIn"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
