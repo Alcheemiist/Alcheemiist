@@ -1,6 +1,6 @@
 ## 👋 [Welcome To Alchemist Operations Lab](https://github.com/Alcheemiist/Alcheemiist)
 
-<h3> Hi there, I'm Elmahdi <br> Embedded system & software specialist <h3>
+**Hi there, I'm Elmahdi <br> Embedded system & software specialist**
 
  I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
  I participate in local and online Competitions, Hackathons & Conference to enhance my coding and my problem-solving skill.
@@ -30,44 +30,12 @@
 - 📝 See my [Curriculum Vitae](https://www.eelaazmi.me) to get more info.
  
 
- **Languages and Tools:**
+**Languages and Tools:**
+- TO ADD LATER 
+ 
+### Student Card :
 
-<code><img  height="20"  src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme)
+</p>
 
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<code><img  height="20"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_line_logo_icon_146612.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>
-
-<code><img  height="20"  src="https://cdn-icons-png.flaticon.com/512/919/919855.png">
-</code>
-
-<code><img  height="20"  src="https://www.clipartmax.com/png/full/117-1179524_icon-arduino-arduino-logo.png">
-</code>
-<code><img  height="20"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png">
-</code>
-<code><img  height="20"  src="https://paranoiaque.fr/wp-content/uploads/2019/07/533a30ab9c.png">
-</code>
-<code><img  height="20"  src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-1024.png">
-</code>
-<code><img  height="20"  src="https://i.pinimg.com/564x/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.jpg
-">
-</code>
+--- 
