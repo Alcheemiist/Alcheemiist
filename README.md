@@ -1,6 +1,6 @@
 ## 👋 [Welcome To Alchemist Operations Lab](https://github.com/Alcheemiist/Alcheemiist)
 
-**Hi there, I'm Elmahdi <br> Embedded system & software specialist**
+**Hi there, I'm Elmahdi <br> Embedded systems specialist & software Developer student**
 
  I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
  I participate in local and online Events(Competitions, Hackathons and Conferences) to enhance my Coding & Software Developement, Entrepreneurship, Project  Management and Communication  Skills.
