@@ -1,11 +1,13 @@
 ## 👋 [Welcome To Alchemist Operations Lab](https://github.com/Alcheemiist/Alcheemiist)
 
-<h2> Hi there, I'm Elmahdi <br> Embedded system & software specialist <h2>
+<h3> Hi there, I'm Elmahdi <br> Embedded system & software specialist <h3>
 
-<p>I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
-I participate in local and online Competitions, Hackathons & Conference to enhance my coding and my problem-solving skill.		 <p>
+<p>
+ I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
+ I participate in local and online Competitions, Hackathons & Conference to enhance my coding and my problem-solving skill.
+<p>
+
 <a  href="https://www.linkedin.com/in/elmahdielaazmi/"><img  align="left"  alt="Mehdi's LinkdeIn"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-
 </a>
 
 
@@ -17,7 +19,6 @@ I participate in local and online Competitions, Hackathons & Conference to enhan
 <img  align="left"  alt="elMehdi's facebook"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />
 </a>
 
-<br/>
 <br>
 <img  align="center
 "  alt="GIF"  src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif"  />
