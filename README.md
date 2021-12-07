@@ -4,8 +4,9 @@
 
 **ABOUT ME :**
 
- I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network, 
- I participate in local and online Events(Competitions, Hackathons and Conferences) to enhance my Coding & Software Developement, Entrepreneurship, Project  Management and   Communication  Skills.
+ > I’ve always been passionate about embedded systems and coding which led me to be a student at 1337 42Network.
+ <br>
+ > I participate in local and online Events(Competitions, Hackathons and Conferences) to enhance my Coding & Software Developement, Entrepreneurship, Project  Management and   Communication  Skills.
 
 
 <a  href="https://www.linkedin.com/in/elmahdielaazmi/"><img  align="left"  alt="Mehdi's LinkdeIn"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -32,11 +33,11 @@
 - 📫 Please email via elaazmielmahdi@gmail.com to reach me;
 - 📝 See my Portfolio / [Curriculum Vitae](https://www.eelaazmi.me) to get more informations;
 
-### Languages and Tools :
+### LANGUAGES AND TOOLS :
 
  > ICONS TO ADD LATER 
  
-### 1337 - 42 Student Card :
+### 1337 - 42 STUDENT CARD :
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=eelaazmi)](https://github.com/mohouyizme/1337-readme)
 </p>
