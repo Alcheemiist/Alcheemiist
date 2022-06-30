@@ -1,6 +1,6 @@
 ## 👋 [Welcome To Alchemist Operations Lab](https://github.com/Alcheemiist/Alcheemiist)
 
-### Hi there, I'm Elmahdi <br> Embedded systems specialist & software Developer student.
+### Hi there, I'm Elmahdi <br> Embedded systems specialist & software Developer.
 
 > ABOUT ME :
 
