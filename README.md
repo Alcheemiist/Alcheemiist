@@ -44,7 +44,7 @@
  
 > 1337 - 42 STUDENT CARD :
 
-[![<eelaazmi>'s 42 stats](https://badge.mediaplus.ma/levi/<eelaazmi>)](https://github.com/oakoudad/badge42)
+[![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
 
 </p>
 
