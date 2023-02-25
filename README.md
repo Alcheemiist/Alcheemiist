@@ -1,7 +1,7 @@
 ## 👋 Welcome to Alchemist Operations Lab
 
 ### Hi there, I'm Elmahdi, also known as Alchemist!
-#### Full-Stack Developer | Embedded Systems Enthusiast | Entrepreneur | Somewhere-Based
+#### Entrepreneur | Full-Stack Developer | Embedded Systems Enthusiast | Somewhere-Based
 
 <p align="justify">I'm passionate about creating innovative and user-friendly applications, and have extensive experience in developing web, software, and mobile applications. I'm proficient in programming languages such as Assembly, C, C++, JavaScript, TypeScript, Python, XML, HTML/CSS, and Swift.</p>
 
@@ -17,8 +17,8 @@
 
 #### Other Stuff:
 
-- 🤔 My interests are in **Web Development, Embedded Systems, Robotics, and Mobile Development**
-- 💼 I'm an entrepreneur with experience in co-founding a tech startup
+- 🤔 My interests are in **Web, Software, Mobile and Embedded Systems Development**
+- 💼 I'm an entrepreneur with experience in co-founding tech startups
 - 💬 Ask me about anything! I'm happy to help, participate, and contribute
 - 📫 You can reach me at elaazmielmahdi@gmail.com
 - 📝 Check out my [Portfolio](https://alcheemiist.github.io/E-Portfolio/) / [Curriculum Vitae](https://www.google.com/cv) to learn more about me
