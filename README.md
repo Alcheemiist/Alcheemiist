@@ -1,51 +1,35 @@
-## 👋 [Welcome To Alchemist Operations Lab](https://github.com/Alcheemiist/Alcheemiist)
+## 👋 Welcome to Alchemist Operations Lab
 
-### Hi there, I'm Elmahdi aka Alchemist<br> 
- Full-Stack Developer || Embedded Systems Enthusiast
- Based In Somewhere.
+### Hi there, I'm Elmahdi, also known as Alchemist!
+#### Full-Stack Developer | Embedded Systems Enthusiast | Entrepreneur | Somewhere-Based
 
-> ABOUT ME :
-<p> 
+<p align="justify">I'm passionate about creating innovative and user-friendly applications, and have extensive experience in developing web, software, and mobile applications. I'm proficient in programming languages such as Assembly, C, C++, JavaScript, TypeScript, Python, XML, HTML/CSS, and Swift.</p>
 
- I have a passion for creating innovative and user-friendly applications.<br>
- while I am experienced in developing web applications,software and mobile applications.<br>
- My programming languages are: Assembley, C, C++, JavaScript, Typescript ,Python, XML, HTML/CSS, SWIFT.
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/elmahdielaazmi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/elmahdielaazmi/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="https://www.facebook.com/elmahdielaazmi"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
 
+<p align="center">
+  <img alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" />
+</p>
 
-<a  href="https://www.linkedin.com/in/elmahdielaazmi/"><img  align="left"  alt="Mehdi's LinkdeIn"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
+#### Other Stuff:
 
-<a  href="https://www.instagram.com/elmahdielaazmi/">
-<img  align="left"  alt="elMehdi's Instagram"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
-</a>
+- 🤔 My interests are in **Web Development, Embedded Systems, Robotics, and Mobile Development**
+- 💼 I'm an entrepreneur with experience in co-founding a tech startup
+- 💬 Ask me about anything! I'm happy to help, participate, and contribute
+- 📫 You can reach me at elaazmielmahdi@gmail.com
+- 📝 Check out my [Portfolio](https://alcheemiist.github.io/E-Portfolio/) / [Curriculum Vitae](https://www.google.com/cv) to learn more about me
 
-<a  href="https://www.facebook.com/elmahdielaazmi">
-<img  align="left"  alt="elMehdi's facebook"  width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  />
-</a>
+#### Languages and Tools:
 
-<br>
-<br>
+- ICONS TO ADD LATER
 
-<img  align="center
-"  alt="GIF"  src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif"  />
-
-> OTHER STUFF :
-
-- 🤔 My interests are with **Web Developement, Embedded Systems, Robotics and Mobile Developement.**; 
-- 💬 Ask me about anything, I am happy to help, participate & contribute;
-- 📫 Please email via elaazmielmahdi@gmail.com to reach me;
-- 📝 See my [Portfolio](https://alcheemiist.github.io/E-Portfolio/) / [Curriculum Vitae](https://www.google.com/cv) to get more informations;
-
-> LANGUAGES AND TOOLS :
-
-  - ICONS TO ADD LATER 
- 
-> 1337 - 42 STUDENT CARD :
+#### 1337 - 42 Student Card:
 
 [![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
 
-</p>
+---
 
---- 
