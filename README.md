@@ -25,10 +25,6 @@
 
 - ICONS TO ADD LATER
 
-<p align="center">
   [![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
-</p>
 
-<p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcheemiist)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
