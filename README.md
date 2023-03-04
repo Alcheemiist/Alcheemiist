@@ -30,6 +30,6 @@
 #### 1337 - 42 Student Card:
 
 [![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eelaazmi)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
