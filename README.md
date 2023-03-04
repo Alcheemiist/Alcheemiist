@@ -1,9 +1,7 @@
 ## 👋 Welcome to Alchemist Operations Lab
 
 ### Hi there, I'm Elmahdi, also known as Alchemist!
-#### Entrepreneur | Full-Stack Developer | Embedded Systems Enthusiast | Somewhere-Based
-
-<p align="justify">I'm passionate about creating innovative and user-friendly applications, and have extensive experience in developing web, software, and mobile applications. I'm proficient in programming languages such as Assembly, C, C++, JavaScript, TypeScript, Python, XML, HTML/CSS, and Swift.</p>
+#### Businessman | Full-Stack Developer | Embedded Systems Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elmahdielaazmi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
@@ -27,9 +25,10 @@
 
 - ICONS TO ADD LATER
 
-#### 1337 - 42 Student Card:
+<p align="center">
+  [![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
+</p>
 
-[![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcheemiist)](https://github.com/anuraghazra/github-readme-stats)
----
-
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcheemiist)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
