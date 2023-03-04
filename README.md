@@ -1,7 +1,6 @@
 ## 👋 Welcome to Alchemist Operations Lab
 
-### Hi there, I'm Elmahdi, also known as Alchemist!
-#### Businessman | Full-Stack Developer | Embedded Systems Enthusiast
+### Hi there, I'm Elmahdi, also known as Alchemist! Full-Stack Developer | Embedded Systems Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elmahdielaazmi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
@@ -26,5 +25,3 @@
 - ICONS TO ADD LATER
 
   [![eelaazmi's 42 stats](https://badge.mediaplus.ma/levi/eelaazmi)](https://github.com/oakoudad/badge42)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcheemiist)](https://github.com/anuraghazra/github-readme-stats)
