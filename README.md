@@ -1,6 +1,6 @@
 ## 👋 Welcome to Alchemist Operations Lab
 
-### Hi there, I'm Elmahdi, also known as Alchemist! Full-Stack Developer | Embedded Systems Enthusiast
+### Hi there, I'm Alchemist a Full-Stack Developer and Embedded Systems Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elmahdielaazmi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
