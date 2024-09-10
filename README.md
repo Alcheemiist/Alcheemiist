@@ -1,4 +1,4 @@
-# Hello, I'm ElMehdi | The Alchemist of Code
+# Hello, I'm El-Mehdi | The Alchemist of Code
 
 I am a software engineer and data scientist with a strong foundation in mobile, web development, and data science. Passionate about creating intelligent, scalable solutions, my expertise lies at the intersection of AI, DevOps, and automation, where I apply technologies to solve complex, real-world problems.
 
