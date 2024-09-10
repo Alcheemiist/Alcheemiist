@@ -1,8 +1,8 @@
-# Hello, I'm Mahdi | The Alchemist of Code
+# Hello, I'm ElMehdi | The Alchemist of Code
 
-I am a software engineer and data scientist with a strong foundation in mobile, web development, and machine learning. Passionate about creating intelligent, scalable solutions, my expertise lies at the intersection of AI, DevOps, and automation, where I apply cutting-edge technologies to solve complex, real-world problems.
+I am a software engineer and data scientist with a strong foundation in mobile, web development, and data science. Passionate about creating intelligent, scalable solutions, my expertise lies at the intersection of AI, DevOps, and automation, where I apply technologies to solve complex, real-world problems.
 
-##   What I Do Best
+### What I Do 
 
     - Data Science & Machine Learning: From LLMs and transformers to deep-learning models, I specialize in building, fine-tuning, and deploying advanced AI systems that push the limits of innovation.
     
@@ -12,7 +12,7 @@ I am a software engineer and data scientist with a strong foundation in mobile, 
     
     - Entrepreneurial Innovation: With hands-on leadership in founding startups, I bring strategic insight into product development, solution design, and team management, always focused on driving business growth and impact.
 
-## Why "Alchemist"?
+### Why "Alchemist"?
 
 The art of coding to me is akin to alchemy—transforming abstract ideas into tangible, impactful solutions. With every line of code, I aim to create systems that empower users, advance technology, and bring ideas to life.
 
@@ -60,7 +60,6 @@ The art of coding to me is akin to alchemy—transforming abstract ideas into ta
 ![ft_irc-bonus](./badges/ft_ircm.png)
 ![ft_transcendence](./badges/ft_transcendencee.png)
 ![ft_transcendence-bonus](./badges/ft_transcendencem.png)
-
 
 ### ⭐ Badges : Plus
 
