@@ -51,11 +51,17 @@
 
 ### ⭐ Badges : Plus
 
-| Human Coder ![libft](./badges/common_coren.png) | ![libft-bonus](./badges/common_coree.png)
-| Creator ![libft](./badges/entrepreneure.png)    | ![libft-bonus](./badges/entrepreneurm.png)
-| Events ![libft](./badges/eventse.png)           | ![libft-bonus](./badges/eventsm.png)
-| P2P Master ![libft](./badges/evaluatione.png)   | ![libft-bonus](./badges/evaluationm.png)
-| Helper ![libft](./badges/volunteere.png)        | ![libft-bonus](./badges/volunteerm.png)
-| Voxotron ![libft](./badges/voxotrone.png)       | ![libft-bonus](./badges/voxotronm.png)
+![libft](./badges/common_coren.png)
+![libft-bonus](./badges/common_coree.png)
+![libft](./badges/entrepreneure.png)
+![libft-bonus](./badges/entrepreneurm.png)
+![libft](./badges/eventse.png)
+![libft-bonus](./badges/eventsm.png)
+![libft](./badges/evaluatione.png)
+![libft-bonus](./badges/evaluationm.png)
+![libft](./badges/volunteere.png)
+![libft-bonus](./badges/volunteerm.png)
+![libft](./badges/voxotrone.png)
+![libft-bonus](./badges/voxotronm.png)
 
 ---
