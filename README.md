@@ -16,7 +16,7 @@ I am a software engineer and data scientist with a strong foundation in mobile, 
 
 The art of coding to me is akin to alchemy—transforming abstract ideas into tangible, impactful solutions. With every line of code, I aim to create systems that empower users, advance technology, and bring ideas to life.
 
-### ⭐ Badges : Plus
+### ⭐ Badges
 
 ![libft-bonus](./badges/common_coree.png)
 ![libft-bonus](./badges/entrepreneurm.png)
