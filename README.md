@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on innovative AI applications in data science.<br>👯 I want to collaborate on projects integrating machine learning with real-world solutions.<br>🤝 I’m looking for help scaling my current projects and finding best practices in deployment.<br>🌱 I’m currently learning about advanced deep-learning techniques and their applications.<br>💬 Ask me about my experience with machine learning models and data visualization.<br>⚡ Fun fact: I once co-founded two startups, blending technology and entrepreneurship!
+🔭 I’m currently working on innovative AI applications.<br>👯 I want to collaborate on projects integrating machine learning with real-world solutions.<br>🤝 I’m looking for help scaling my current projects and finding best practices.<br>🌱 I’m currently learning about advanced deep-learning techniques and their applications.<br>💬 Ask me about my experience with machine learning and AI.<br>⚡ Fun fact: I once co-founded two startups, blending technology and entrepreneurship!
 
 
 ## 🌐 Socials:
