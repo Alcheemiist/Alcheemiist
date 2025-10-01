@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alcheemiist+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;42+School+Student+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alcheemiist+%F0%9F%91%8B;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;42+School+Student+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Passionate+about+transforming+ideas+into+reality;Building+the+future+with+AI+and+Machine+Learning;Always+learning%2C+always+evolving" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Passionate+about+transforming+ideas+into+reality;Building+the+future+with+AI+and+Machine+Learning;Always+learning%2C+always+evolving" alt="About Me" />
 </div>
 
 - 🔭 **Currently working on** innovative AI applications and machine learning solutions
@@ -147,7 +147,7 @@
 ## 🎓 42 School Progress
 
 <div align="center">
-  <img src="https://badge42.vercel.app/api/stats/your-42-username" alt="42 Stats" />
+  <img src="https://badge42.vercel.app/api/stats/Alcheemiist" alt="42 Stats" />
 </div>
 
 ### 📚 Core Curriculum Projects
@@ -188,7 +188,7 @@
 ## 💡 Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Creating+scalable+web+applications;Contributing+to+open+source+projects;Learning+cutting-edge+technologies" alt="Current Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Creating+scalable+web+applications;Contributing+to+open+source+projects;Learning+cutting-edge+technologies" alt="Current Focus" />
 </div>
 
 ---
@@ -204,13 +204,13 @@
 ## 📊 Profile Views
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Alcheemiist&icon=5&color=8B5CF6&iconColor=8B5CF6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Alcheemiist&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="Thank You" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="Thank You" />
 </div>
 
 ---
