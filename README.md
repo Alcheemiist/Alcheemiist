@@ -33,7 +33,7 @@ Most of this is client or employer code and lives in private repos. The results:
 - [42_Cursus_webserv](https://github.com/Alcheemiist/42_Cursus_webserv): non-blocking HTTP/1.1 server in C++98 with CGI and an nginx-style config
 - [Bgp-At-Doors-for-Autonomous-Systems](https://github.com/Alcheemiist/Bgp-At-Doors-for-Autonomous-Systems): BGP EVPN / VXLAN spine-leaf lab
 - [ComputorV2](https://github.com/Alcheemiist/ComputorV2): math interpreter (lexer → parser → AST evaluator)
-- [42-cursus](https://github.com/Alcheemiist/42-cursus): index of my 1337 / 42 Network core projects (shell, raycaster, threads, containers, assembly, Docker)
+- [42-cursus](https://github.com/Alcheemiist/42-cursus): index of my 1337 / 42 Network core projects (shell, raycaster, threads, containers, assembly)
 
 ## Stack
 
